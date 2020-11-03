@@ -1,5 +1,5 @@
 # DebiNet
-This is repo corresponding to my paper: DebiNet: Debiasing Linear Models with Nonlinear Overparameterized Neural Networks.
+This is repo corresponding to my paper: [DebiNet: Debiasing Linear Models with Nonlinear Overparameterized Neural Networks]{https://arxiv.org/pdf/2011.00417.pdf}.
 
 ## Abstract:
 
